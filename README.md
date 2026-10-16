@@ -3,6 +3,12 @@
 **GTA5 & FiveM Clothing Texture & Patch Optimization Studio**  
 *Native C# / Windows Forms High-Performance Desktop Application*
 
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8%20(x64)-blue.svg)](https://dotnet.microsoft.com/)
+[![Language](https://img.shields.io/badge/Language-C%23%20WinForms-brightgreen.svg)]()
+[![Platform](https://img.shields.io/badge/Platform-Windows%20x64-lightgrey.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-orange.svg)](LICENSE)
+[![Languages](https://img.shields.io/badge/Languages-EN%20%7C%20DE%20%7C%20TR-purple.svg)]()
+
 ---
 
 <p align="center">
