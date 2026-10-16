@@ -11,13 +11,6 @@
 
 ---
 
-<p align="center">
-  <b>🌐 Trilingual Interface: English (EN) | Deutsch (DE) | Türkçe (TR)</b><br>
-  <i>Switch languages dynamically in real-time from the top menu: <code>🌐 Language / Sprache / Dil</code></i>
-</p>
-
----
-
 ## 📖 Languages / Sprachen / Diller
 
 - [English](#-english)
